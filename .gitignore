@@ -1,4 +1,4 @@
-# Unity generated cache & temporary folders
+# Unity cache & temp folders
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -8,10 +8,11 @@
 /[Uu]ser[Ss]ettings/
 /[Mm]emoryCaptures/
 
-# Visual Studio & VS Code local environments
+# Visual Studio & VS Code solution files
 .vscode/
 .vs/
 *.csproj
 *.unityproj
 *.sln
+*.slnx
 *.userprefs
